@@ -16,7 +16,7 @@ I am a minimalist designer with a focus on clean, functional interfaces. In addi
 
 
   
-                    </p>
+              
 
                  
                     
