@@ -4,7 +4,7 @@ Hi! My name is Nhat Linh
 Soc analyst. Front-end. Designer
 --------------------------------
 
-I am a minimalist designer with a focus on clean, functional interfaces. In addition to my design work, I actively monitor and analyze logs as part of my role in security operations, ensuring both aesthetics and security are top priorities.
+
 
 *     I'm based in Vietnam
 *     You can contact me at [linh.nn2804@gmail.com](mailto:linh.nn2804@gmail.com)
