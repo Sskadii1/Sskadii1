@@ -1,7 +1,7 @@
 Hi! My name is Nhat Linh
 ==========================
 
-Soc analyst. Front-end. Designer
+Intern cybersecurity.
 --------------------------------
 
 
